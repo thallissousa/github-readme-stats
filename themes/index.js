@@ -294,6 +294,11 @@ const themes = {
     text_color: "FFFFFF",
     bg_color: "2C2F33",
   },
-};
+  off_white: {
+ title_color: "000401",
+    icon_color: "000401",
+    text_color: "4E545C",
+    bg_color: "F5F5F5",
+  };
 
 module.exports = themes;
